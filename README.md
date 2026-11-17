@@ -61,8 +61,11 @@ Hardened Flask deployment on Oracle Cloud built around real operational constrai
 
 ### Certifications & Security Practice
 
-- **Oracle Cloud Infrastructure 2024 Certified Security Professional** (2024)
-- **OCI Architect Associate · OCI Generative AI · OCI Foundations Associate** (2023–2024)
+- **Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)** — *Microsoft*
+- **Oracle Cloud Infrastructure 2024 Certified Security Professional** — *Oracle (2024)*
+- **OCI Architect Associate · OCI Generative AI · OCI Foundations Associate** — *Oracle (2023–2024)*
+- **LPI Linux Essentials** — *Linux Professional Institute*
+- **Meta Front-End Developer Professional Certificate** — *Meta · Coursera*
 - **TryHackMe — Top 1% Global Ranking** ([`tryhackme.com/p/oez`](https://tryhackme.com/p/oez)) — *Enumeration & recon, web exploitation, Linux privilege escalation, and turning offensive findings into WAF, TLS, Bastion, and Private Link hardening.*
 
 ---
